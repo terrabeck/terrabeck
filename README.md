@@ -1,4 +1,4 @@
-`### Hi there! 👋 I'm Terra.
+### Hi there! 👋 I'm Terra.
 
 I'm a Software Engineer.
 
